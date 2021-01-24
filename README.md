@@ -67,7 +67,7 @@ I'm a busy man, working both for Aalborg kommune teaching game development, and 
 <img src="https://github-readme-stats.vercel.app/api?username=julius-bendt&show_icons=true&theme=vision-friendly-dark&count_private=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-bendt&layout=compact&theme=vision-friendly-dark" />
-<p>Note: The languages in above chart does not represent my skill level. It is a metric of which languages I have been uploading the most. </p>
+<p><span style="font-weight:bold;">NOTE:</span> The languages in above chart does not represent my skill level. It is a metric of which languages I have been uploading the most. </p>
 </div>
 
 <!--
