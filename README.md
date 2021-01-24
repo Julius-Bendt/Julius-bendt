@@ -59,18 +59,16 @@ I'm a busy man, working both for Aalborg kommune teaching game development, and 
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
 
-
 <br>
 
-<h2 align="center">Github Stats</h2>
-<table width="100%"  border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=julius-bendt&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-    </td>
 
-  </tr>
-</table>
+<div align="center">
+<h2>Github Stats</h2>>
+<img src="https://github-readme-stats.vercel.app/api?username=julius-bendt&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-bendt&layout=compact&theme=vision-friendly-dark" />
+<p>Note: The languages in above chart does not represent my skill level. It is a metric of which languages I have been uploading the most. </p>
+</div>
 
 <!--
 <h2 align="center">Want to get in contact? <span style="font-weight:bold;">Reach me at</span></h2>
