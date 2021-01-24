@@ -9,7 +9,7 @@ I'm a 20 years old CS student from Aalborg, Denmark. <br>
 I'm a busy man, working both for Aalborg kommune teaching game development, and for Graitor(A startup based in Aalborg), where I'm CTO.  
 <br><br>
 🔭 I’m currently working on: An app, api and dashboard for @graitor!<br>
-🌱 I’m currently learning: How to properly configure<br>
+🌱 I’m currently learning: How to properly configure a linux and nginx server<br>
 💬 Ask me about: Anything! (although I might not be able to answer)<br>
 ⚡ Fun fact: I use dark mode everywhere possible! (I also love the color <span style="color:#FECB1E";>#FECB1E</span>)<br>
 
@@ -71,6 +71,7 @@ I'm a busy man, working both for Aalborg kommune teaching game development, and 
 </div>
 
 <!--
+whaoo! I'll write these when I get the time!
 <h2 align="center">Want to get in contact? <span style="font-weight:bold;">Reach me at</span></h2>
 <p align="center">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
