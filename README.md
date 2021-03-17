@@ -1,7 +1,3 @@
-<!--
-<img align="center" src="https://github.com/julius-bendt/julius-bendt/blob/master/hello.svg"/>-->
- 
-
 <h1 align="center"> Hey 👋🏽</h1>
 <h2 align="center">I'm Julius Bendt!</h2>
 <div align="center">
@@ -70,15 +66,9 @@ I'm a busy man, working both for Aalborg kommune teaching game development, and 
 <p><span style="font-weight:bold;">NOTE:</span> The languages in above chart does not represent my skill level. It is a metric of which languages I have been uploading the most. </p>
 </div>
 
-<!--
-whaoo! I'll write these when I get the time!
+
 <h2 align="center">Want to get in contact? <span style="font-weight:bold;">Reach me at</span></h2>
 <p align="center">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-
-<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> -->
-
+<a href="https://www.linkedin.com/in/julius-bendt" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&"/></a>
 
 
