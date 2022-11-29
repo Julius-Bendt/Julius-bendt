@@ -1,22 +1,22 @@
 <h1 align="center"> Hey 👋🏽</h1>
 <h2 align="center">I'm Julius Bendt!</h2>
 <div align="center">
-I'm a 20 years old CS student from Aalborg, Denmark. <br>
-I'm a busy man, working both for Aalborg kommune teaching game development, and for Graitor(A startup based in Aalborg), where I'm CTO.  
+I'm a student from UCN, currently pursuing a business bachlor degree in computer science.
+I primary work with Laravel, Flutter and Vue.
 <br><br>
-🔭 I’m currently working on: An app, api and dashboard for @graitor!<br>
-🌱 I’m currently learning: How to properly configure a linux and nginx server<br>
-💬 Ask me about: Anything! (although I might not be able to answer)<br>
+
 ⚡ Fun fact: I use dark mode everywhere possible! (I also love the color <span style="color:#FECB1E";>#FECB1E</span>)<br>
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 😄 Pronouns: ... -->
+
 </div>
 <br>
-<h2 align="center">Languages, frameworks and tools</h2>
+
+<details>
+<summary> <samp>📝 Languages, frameworks and tools</samp></summary>
+<br>
+
 <p align="center">My tech stack includes both web-, game-, and mobile development tools and frameworks. <p>
-<p align="center">
+
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
@@ -55,16 +55,25 @@ I'm a busy man, working both for Aalborg kommune teaching game development, and 
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 
 
-<br>
-
+<br><br>
 
 <div align="center">
-<h2>Github Stats</h2>>
-<img src="https://github-readme-stats.vercel.app/api?username=julius-bendt&show_icons=true&theme=vision-friendly-dark&count_private=true" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-bendt&layout=compact&theme=vision-friendly-dark" />
 <p><span style="font-weight:bold;">NOTE:</span> The languages in above chart does not represent my skill level. It is a metric of which languages I have been uploading the most. </p>
 </div>
+
+</details>
+
+<details>
+<summary> <samp>📈 Github Stats</samp></summary>
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=julius-bendt&show_icons=true&theme=vision-friendly-dark&count_private=true" />
+</div>
+</details>
+
+
 
 
 <h2 align="center">Want to get in contact? <span style="font-weight:bold;">Reach me at</span></h2>
