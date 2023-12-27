@@ -5,7 +5,7 @@ I'm a student from UCN, currently pursuing a business bachlor degree in computer
 I primary work with Laravel, Flutter and Vue.
 <br><br>
 
-⚡ Fun fact: I use dark mode everywhere possible! (I also love the color <span style="color:#FECB1E";>#FECB1E</span>)<br>
+⚡ Fun fact: I use dark mode everywhere possible! (I also love the color <span style="color:#FECB1E">#FECB1E</span>)<br>
 
 
 </div>
