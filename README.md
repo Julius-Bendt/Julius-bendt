@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👨‍💻 About Me</h1>
+<h1 align="center">👨‍💻 About Me</h1>
 Hello! 👋 I'm Julius Bendt, a software developer with a passion for crafting digital experiences. Here's a quick peek into my world:
 
 ## 💻 Software Development
